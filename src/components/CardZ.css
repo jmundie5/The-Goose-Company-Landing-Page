@@ -1,0 +1,6 @@
+.roundThat {
+  border-radius: 2em;
+}
+.roundThatPicture {
+  border-radius: 2em 2em 0 0;
+}
